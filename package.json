@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "workspaces": {
+        "packages": [
+            "client-extentions\\liferay-custom-card-slider",
+            "client-extentions\\plan-cards-element-react"
+        ]
+    }
+}

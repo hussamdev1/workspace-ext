@@ -1,0 +1,15 @@
+assemble:
+    - from: build/static
+      into: static
+plan-cards-element-react:
+    cssURLs:
+        - css/main.*.css
+    friendlyURLMapping: plan-cards-element-react
+    htmlElementName: plan-cards-element-react
+    instanceable: false
+    name: plan cards element react
+    portletCategoryName: category.client-extensions
+    type: customElement
+    urls:
+        - js/main.*.js
+    useESM: true
